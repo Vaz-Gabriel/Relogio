@@ -1,4 +1,4 @@
-# Relógio Digital
+# 🐾 Relógio Digital
 
 Este projeto apresenta um relógio digital funcional que exibe a hora atualizada em tempo real, com um design moderno e responsivo.
 
