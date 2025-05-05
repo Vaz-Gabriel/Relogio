@@ -12,9 +12,9 @@ Este projeto apresenta um relógio digital funcional que exibe a hora atualizada
 
 ```
 relogio/
-├── relogio.html (Estrutura principal do relógio)
-├── recursos.js (Lógica de atualização do horário)
-├── README.md (Documentação)
+├── relogio.html
+├── recursos.js
+├── README.md
 
 ```
 
@@ -23,7 +23,7 @@ relogio/
 - ✅ Interface Moderno e Responsivo
 
 
-## 🔧 Como Executar
+## 🛠️ Como Executar
 
 1. Clone o repositório:
    ```bash
