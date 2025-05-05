@@ -39,3 +39,10 @@ relogio/
    ```bash
    relogio.html
    ```
+
+## 👨‍💻 Desenvolvedor
+
+
+| Nome     | GitHub                           |
+|----------|----------------------------------|
+| Gabriel Franco Vaz | [@Vaz-Gabriel](https://github.com/Vaz-Gabriel) |
